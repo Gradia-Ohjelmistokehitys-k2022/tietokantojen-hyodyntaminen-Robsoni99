@@ -1,0 +1,22 @@
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\bin\Debug\net8.0\Tietokantojen hyödyntäminen.exe
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\bin\Debug\net8.0\Tietokantojen hyödyntäminen.deps.json
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\bin\Debug\net8.0\Tietokantojen hyödyntäminen.runtimeconfig.json
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\bin\Debug\net8.0\Tietokantojen hyödyntäminen.dll
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\bin\Debug\net8.0\Tietokantojen hyödyntäminen.pdb
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\obj\Debug\net8.0\Tietokantojen hyödyntäminen.csproj.AssemblyReference.cache
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\obj\Debug\net8.0\Tietokantojen hyödyntäminen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\obj\Debug\net8.0\Tietokantojen hyödyntäminen.AssemblyInfoInputs.cache
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\obj\Debug\net8.0\Tietokantojen hyödyntäminen.AssemblyInfo.cs
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\obj\Debug\net8.0\Tietokantojen hyödyntäminen.csproj.CoreCompileInputs.cache
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\obj\Debug\net8.0\Tietokan.CE6C7448.Up2Date
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\obj\Debug\net8.0\Tietokantojen hyödyntäminen.dll
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\obj\Debug\net8.0\refint\Tietokantojen hyödyntäminen.dll
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\obj\Debug\net8.0\Tietokantojen hyödyntäminen.pdb
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\obj\Debug\net8.0\Tietokantojen hyödyntäminen.genruntimeconfig.cache
+C:\Users\gr275833\source\repos\Tietokantojen hyödyntäminen\Tietokantojen hyödyntäminen\obj\Debug\net8.0\ref\Tietokantojen hyödyntäminen.dll
